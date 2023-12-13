@@ -1,0 +1,6 @@
+bluetooth.startAccelerometerService()
+bluetooth.startButtonService()
+bluetooth.startIOPinService()
+bluetooth.startLEDService()
+bluetooth.startTemperatureService()
+basic.showString("MONITOR SERVICES")
